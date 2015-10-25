@@ -3,7 +3,7 @@ title: SWJTU problemSolve
 email: desgard_duan@foxmail.com
 description: "ACM"
 permalink: /:year/:month/:day/:title.html
-baseurl: "http://swjtu-acm.github.io"
+baseurl: ""
 url: "http://swjtu-acm.github.io"
 atom-baseurl: "http://swjtu-acm.github.io"
 author: "hackerxu"
