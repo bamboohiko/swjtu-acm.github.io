@@ -3,15 +3,12 @@ title: SWJTU problemSolve
 email: desgard_duan@foxmail.com
 description: "ACM"
 permalink: /:year/:month/:day/:title.html
-<<<<<<< HEAD
 baseurl: ""
 url: "http://swjtu-acm.github.io"
 atom-baseurl: "http://swjtu-acm.github.io"
-=======
 baseurl: "https://swjtu-acm.github.io"
 url: "https://swjtu-acm.github.io"
 atom-baseurl: "https://swjtu-acm.github.io"
->>>>>>> origin/master
 author: "hackerxu"
 
 # Build settings
