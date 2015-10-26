@@ -1,18 +1,16 @@
 ---
 layout: post
 author: Desgard_Duan
-title: Hello_World！
+title: 西南交通大学Online Judge题解小站
 category: daily
-tag: [life]
+tag: [消息]
 ---
-Hello_World！
 
-<br />
-冬瓜的起点！
-```c++
+<code><pre>
 using namespace std;
 int main () {
-	cout << "Hello world!" << endl;
+	cout << "I love ACM!" << endl;
 	return 0;
 }
-```
+</pre></code>
+
