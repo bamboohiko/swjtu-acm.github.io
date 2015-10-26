@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title></title>
+        <description>ACM</description>      
+        <link>https://swjtu-acm.github.io</link>
+        <atom:link href="https://swjtu-acm.github.io/feed.xml" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>【SWJTU2270】拼接海报</title>
+                        
+                
+                    <description>&lt;p&gt;&lt;a href=&quot;http://acm.swjtu.edu.cn/JudgeOnline/showproblem?problem_id=2270&quot;&gt;题目链接&lt;/a&gt;&lt;/p&gt;
+</description>
+                
+                <pubDate>Mon, 26 Oct 2015 00:00:00 +0800</pubDate>
+                <link>https://swjtu-acm.github.io/2015/10/26/SWJTU2270.html</link>
+                <guid isPermaLink="true">https://swjtu-acm.github.io/2015/10/26/SWJTU2270.html</guid>
+            </item>
+        
+            <item>
+                <title>【SWJTU2269】n的阶乘</title>
+                        
+                
+                    <description>&lt;p&gt;&lt;a href=&quot;http://acm.swjtu.edu.cn/JudgeOnline/showproblem?problem_id=2269&quot;&gt;题目链接&lt;/a&gt;&lt;/p&gt;
+</description>
+                
+                <pubDate>Mon, 26 Oct 2015 00:00:00 +0800</pubDate>
+                <link>https://swjtu-acm.github.io/2015/10/26/SWJTU2269.html</link>
+                <guid isPermaLink="true">https://swjtu-acm.github.io/2015/10/26/SWJTU2269.html</guid>
+            </item>
+        
+            <item>
+                <title>【SWJTU1941】舞会</title>
+                        
+                
+                    <description>&lt;p&gt;&lt;a href=&quot;http://acm.swjtu.edu.cn/JudgeOnline/showproblem?problem_id=1941&quot;&gt;题目链接&lt;/a&gt;&lt;/p&gt;
+</description>
+                
+                <pubDate>Mon, 26 Oct 2015 00:00:00 +0800</pubDate>
+                <link>https://swjtu-acm.github.io/2015/10/26/SWJTU1941.html</link>
+                <guid isPermaLink="true">https://swjtu-acm.github.io/2015/10/26/SWJTU1941.html</guid>
+            </item>
+        
+            <item>
+                <title>【SWJTU1811】斗地主</title>
+                        
+                
+                    <description>&lt;p&gt;&lt;a href=&quot;http://acm.swjtu.edu.cn/JudgeOnline/showproblem?problem_id=1811&quot;&gt;题目链接&lt;/a&gt;&lt;/p&gt;
+</description>
+                
+                <pubDate>Mon, 26 Oct 2015 00:00:00 +0800</pubDate>
+                <link>https://swjtu-acm.github.io/2015/10/26/SWJTU1811.html</link>
+                <guid isPermaLink="true">https://swjtu-acm.github.io/2015/10/26/SWJTU1811.html</guid>
+            </item>
+        
+            <item>
+                <title>【SWJTU2273】圆上的和</title>
+                        
+                
+                    <description>&lt;p&gt;&lt;a href=&quot;http://acm.swjtu.edu.cn/JudgeOnline/showproblem?problem_id=2273&quot;&gt;题目连接&lt;/a&gt;&lt;/p&gt;
+</description>
+                
+                <pubDate>Sun, 25 Oct 2015 00:00:00 +0800</pubDate>
+                <link>https://swjtu-acm.github.io/2015/10/25/SWJTU2273.html</link>
+                <guid isPermaLink="true">https://swjtu-acm.github.io/2015/10/25/SWJTU2273.html</guid>
+            </item>
+        
+            <item>
+                <title>西南交通大学Online Judge题解小站</title>
+                        
+                
+                    <description>&lt;p&gt;&lt;code&gt;&lt;pre&gt;
+using namespace std;
+int main () {
+    cout &amp;lt;&amp;lt; &amp;quot;I love ACM!&amp;quot; &amp;lt;&amp;lt; endl;
+    return 0;
+}
+&lt;/pre&gt;&lt;/code&gt;&lt;/p&gt;
+</description>
+                
+                <pubDate>Sun, 25 Oct 2015 00:00:00 +0800</pubDate>
+                <link>https://swjtu-acm.github.io/2015/10/25/HelloWorld.html</link>
+                <guid isPermaLink="true">https://swjtu-acm.github.io/2015/10/25/HelloWorld.html</guid>
+            </item>
+        
+    </channel>
+</rss>
